@@ -1,0 +1,29 @@
+commit 31c4c936e5540c1848b32c3fe085743370068849
+Author: ntlkgo002 <ntlkgo002@nightmare.cs.uct.ac.za>
+Date:   Wed Mar 1 17:10:11 2023 +0000
+
+    final changes completed on both server and client code
+
+commit 7732bb57af95eeecc2f4e0c404049404bdd31d94
+Author: ntlkgo002 <ntlkgo002@sl-dual-218.cs.uct.ac.za>
+Date:   Tue Feb 28 12:54:18 2023 +0200
+
+    A few changes made in the client
+
+commit 424a6832d9b9f25b3624ca34f91e454f2dac0888
+Author: ntlkgo002 <ntlkgo002@nightmare.cs.uct.ac.za>
+Date:   Mon Feb 27 20:57:51 2023 +0000
+
+    duplicate upload info issue fixed in server, client download function added
+
+commit b37f224e24e33f67f15cfa767e964dace9c80b15
+Author: ntlkgo002 <ntlkgo002@nightmare.cs.uct.ac.za>
+Date:   Sun Feb 26 18:47:45 2023 +0000
+
+    download function added to client
+
+commit 053b8e9e5a23522528e20f79ab74890fac117062
+Author: ntlkgo002 <ntlkgo002@sl-dual-222.cs.uct.ac.za>
+Date:   Fri Feb 24 13:36:45 2023 +0200
+
+    upload function implemented in client
